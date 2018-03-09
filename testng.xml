@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite thread-count="1" name="Suite" parallel="false">
+     <listeners>
+    <listener class-name="testNGListeners.RetryListener"/>
+</listeners>
+    <test name="iPad Air">
+        <classes>
+            <class name="Test.LoginScreenTest"/>
+        </classes>
+    </test>
+
+    <!--<test name="Galaxy_S7_API_27">-->
+        <!--<classes>-->
+            <!--&lt;!&ndash;<class name="Test.LoginScreenTest"/>&ndash;&gt;-->
+        <!--</classes>-->
+    <!--</test>-->
+</suite> <!-- Suite -->
