@@ -2,475 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8827be85-25b0-46e3-828f-2b4a8dd8b63d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Base.lproj/Main.storyboardc/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Base.lproj/Main.storyboardc/UINavigationController-PUb-h2-IMm.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Frameworks/libswiftCoreData.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Frameworks/libswiftCoreFoundation.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Frameworks/libswiftCoreGraphics.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Frameworks/libswiftCoreImage.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Frameworks/libswiftDarwin.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Frameworks/libswiftDispatch.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Frameworks/libswiftFoundation.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Frameworks/libswiftMetal.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Frameworks/libswiftObjectiveC.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Frameworks/libswiftQuartzCore.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Frameworks/libswiftSwiftOnoneSupport.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Frameworks/libswiftUIKit.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Frameworks/libswiftos.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/HitList" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/HitList.momd/HitList.mom" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/HitList.momd/HitList.omo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/HitList.momd/VersionInfo.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/libswiftRemoteMirror.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/rgill.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_64.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_appium_java_client_6_0_0_BETA2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_5_v20170502.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_5_v20170502.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_5_v20170502.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_5_v20170502.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_5_v20170502.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_5_v20170502.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_5_v20170502.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openpnp_opencv_3_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DemoAppium.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/_CodeSignature/CodeResources" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/utitlity/YamlReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/AnalyserData.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/AppIcon40x40@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/AppIcon40x40@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/AppIcon40x40@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/AppIcon40x40~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/AppIcon50x50@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/AppIcon50x50~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/AppIcon60x60@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/AppIcon83.5x83.5@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/Assets.car" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/GoogleService-Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/HRDirectLite" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/LaunchImage-1100-Landscape-2436h@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/LaunchImage-1100-Portrait-2436h@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/LaunchImage-568h@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/LaunchImage-700-568h@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/LaunchImage-700-Landscape@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/LaunchImage-700-Landscape~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/LaunchImage-700-Portrait@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/LaunchImage-700-Portrait~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/LaunchImage-700@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/LaunchImage-800-Landscape-736h@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/LaunchImage-Portrait@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/LaunchImage-Portrait~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/LaunchImage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/LaunchImage@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/MainViewController.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/fonts/ionicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/fonts/ionicons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/fonts/ionicons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/fonts/ionicons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/img/AllArtboard 1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/img/HR_Direct_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/img/emirates_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/img/feather.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/img/feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/scss/_all.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/scss/custom.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/scss/multiselect.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/scss/nv.d3.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/scss/variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/assets/scss/vendor.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/cordova-js-src/exec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/cordova-js-src/platform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/cordova.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/cordova_plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/inline.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/inline.bundle.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/ionicons.05acfdb568b3df49ad31.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/ionicons.24712f6c47821394fba7.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/ionicons.2c2ae068be3b089e0a5b.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/ionicons.621bd386841f74e0053c.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/main.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/main.bundle.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-device/www/device.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-fcm-with-dependecy-updated/www/FCMPlugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/DirectoryEntry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/DirectoryReader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/Entry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/File.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/FileEntry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/FileError.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/FileReader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/FileSystem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/FileUploadOptions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/FileUploadResult.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/FileWriter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/Flags.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/LocalFileSystem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/Metadata.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/ProgressEvent.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/browser/isChrome.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/fileSystemPaths.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/fileSystems-roots.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/fileSystems.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/ios/FileSystem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/requestFileSystem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/plugins/cordova-plugin-file/www/resolveLocalFileSystemURI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/polyfills.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/polyfills.bundle.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/styles.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/styles.bundle.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/vendor.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/www/vendor.bundle.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/AppIcon40x40@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/AppIcon40x40@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/AppIcon40x40@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/AppIcon40x40~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/AppIcon50x50@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/AppIcon50x50~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/AppIcon60x60@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/AppIcon83.5x83.5@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/Assets.car" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/CDVLaunchScreen.storyboardc/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/GoogleService-Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/HRDirectLite" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/LaunchImage-1100-Landscape-2436h@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/LaunchImage-1100-Portrait-2436h@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/LaunchImage-568h@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/LaunchImage-700-568h@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/LaunchImage-700-Landscape@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/LaunchImage-700-Landscape~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/LaunchImage-700-Portrait@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/LaunchImage-700-Portrait~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/LaunchImage-700@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/LaunchImage-800-Landscape-736h@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/LaunchImage-Portrait@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/LaunchImage-Portrait~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/LaunchImage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/LaunchImage@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/MainViewController.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/PkgInfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/fonts/ionicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/fonts/ionicons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/fonts/ionicons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/fonts/ionicons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/img/AllArtboard 1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/img/HR_Direct_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/img/emirates_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/img/feather.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/img/feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/scss/_all.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/scss/custom.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/scss/multiselect.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/scss/nv.d3.min.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/scss/variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/assets/scss/vendor.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/cordova-js-src/exec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/cordova-js-src/platform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/cordova.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/cordova_plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/inline.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/inline.bundle.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/ionicons.05acfdb568b3df49ad31.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/ionicons.24712f6c47821394fba7.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/ionicons.2c2ae068be3b089e0a5b.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/ionicons.c037dbbc0e6790f30e82.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/main.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/main.bundle.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-device/www/device.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-fcm-with-dependecy-updated/www/FCMPlugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/DirectoryEntry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/DirectoryReader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/Entry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/File.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/FileEntry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/FileError.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/FileReader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/FileSystem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/FileUploadOptions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/FileUploadResult.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/FileWriter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/Flags.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/LocalFileSystem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/Metadata.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/ProgressEvent.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/browser/isChrome.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/fileSystemPaths.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/fileSystems-roots.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/fileSystems.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/ios/FileSystem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/requestFileSystem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/plugins/cordova-plugin-file/www/resolveLocalFileSystemURI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/polyfills.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/polyfills.bundle.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/styles.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/styles.bundle.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/vendor.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-6March.app/www/vendor.bundle.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/AppIcon40x40@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/AppIcon40x40@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/AppIcon40x40@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/AppIcon40x40~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/AppIcon50x50@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/AppIcon50x50~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/AppIcon60x60@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/AppIcon83.5x83.5@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/Assets.car" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/CDVLaunchScreen.storyboardc/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/GoogleService-Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/HRDirectLite" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/LaunchImage-1100-Landscape-2436h@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/LaunchImage-1100-Portrait-2436h@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/LaunchImage-568h@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/LaunchImage-700-568h@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/LaunchImage-700-Landscape@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/LaunchImage-700-Landscape~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/LaunchImage-700-Portrait@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/LaunchImage-700-Portrait~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/LaunchImage-700@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/LaunchImage-800-Landscape-736h@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/LaunchImage-Portrait@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/LaunchImage-Portrait~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/LaunchImage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/LaunchImage@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/MainViewController.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/PkgInfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/3rdpartylicenses.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/fonts/ionicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/fonts/ionicons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/fonts/ionicons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/fonts/ionicons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/img/AllArtboard 1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/img/HR_Direct_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/img/emirates_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/img/feather.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/img/feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/scss/_all.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/scss/custom.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/scss/multiselect.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/scss/nv.d3.min.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/scss/variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/assets/scss/vendor.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/cordova-js-src/exec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/cordova-js-src/platform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/cordova.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/cordova_plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/inline.5f1f08f7c7cbcd24e52a.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/ionicons.05acfdb568b3df49ad31.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/ionicons.24712f6c47821394fba7.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/ionicons.2c2ae068be3b089e0a5b.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/ionicons.c037dbbc0e6790f30e82.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/main.9cf316652fa81b294169.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/plugins/cordova-plugin-fcm-with-dependecy-updated/www/FCMPlugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/polyfills.67d068662b88f84493d2.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/styles.7139fd94e14d4fa8b9ce.bundle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-old.app/www/vendor.791ab1be70225d7ffaed.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/AppIcon40x40@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/AppIcon40x40@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/AppIcon40x40@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/AppIcon40x40~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/AppIcon50x50@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/AppIcon50x50~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/AppIcon60x60@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/AppIcon83.5x83.5@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/Assets.car" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/CDVLaunchScreen.storyboardc/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/GoogleService-Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/HRDirectLite" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/LaunchImage-1100-Landscape-2436h@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/LaunchImage-1100-Portrait-2436h@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/LaunchImage-568h@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/LaunchImage-700-568h@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/LaunchImage-700-Landscape@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/LaunchImage-700-Landscape~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/LaunchImage-700-Portrait@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/LaunchImage-700-Portrait~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/LaunchImage-700@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/LaunchImage-800-Landscape-736h@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/LaunchImage-Portrait@2x~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/LaunchImage-Portrait~ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/LaunchImage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/LaunchImage@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/MainViewController.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/PkgInfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/3rdpartylicenses.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/fonts/ionicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/fonts/ionicons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/fonts/ionicons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/fonts/ionicons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/img/AllArtboard 1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/img/HR_Direct_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/img/emirates_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/img/feather.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/img/feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/scss/_all.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/scss/custom.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/scss/multiselect.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/scss/nv.d3.min.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/scss/variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/assets/scss/vendor.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/cordova-js-src/exec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/cordova-js-src/platform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/cordova.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/cordova_plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/inline.27c2e903c8e20cab327a.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/ionicons.05acfdb568b3df49ad31.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/ionicons.24712f6c47821394fba7.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/ionicons.2c2ae068be3b089e0a5b.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/ionicons.c037dbbc0e6790f30e82.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/main.6d44272b95428f866856.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-device/www/device.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-fcm-with-dependecy-updated/www/FCMPlugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/DirectoryEntry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/DirectoryReader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/Entry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/File.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/FileEntry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/FileError.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/FileReader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/FileSystem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/FileUploadOptions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/FileUploadResult.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/FileWriter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/Flags.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/LocalFileSystem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/Metadata.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/ProgressEvent.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/browser/isChrome.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/fileSystemPaths.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/fileSystems-roots.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/fileSystems.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/ios/FileSystem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/requestFileSystem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/plugins/cordova-plugin-file/www/resolveLocalFileSystemURI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/polyfills.67d068662b88f84493d2.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/styles.b552d2dbb8f2080cd47d.bundle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite.app/www/vendor.a305ff69c4a456f2fd14.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Screens/AnalyserScreen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Screens/ApprovalsScreen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Screens/EmployeeSearchScreen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Screens/EscServicesScreen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Screens/HomeScreen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Screens/NotificationsScreen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Screens/RequestsScreen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Screens/ToolkitScreen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Test/AnalyserScreenTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Test/ApprovalsTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Test/ESCServicesTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Test/EmployeeSearchTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Test/HomeScreenTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Test/NotificationsScreenTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Test/RequestsTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Test/ToolkitTests.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/app/Android/android.apk" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Frameworks/libswiftCore.dylib" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/CDVLaunchScreen.storyboardc/Info.plist" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/Base.lproj/LaunchScreen.storyboardc/Info.plist" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/app/IOS/HRDirectLite-27feb.app/PkgInfo" afterPath="$PROJECT_DIR$/src/main/resources/app/IOS/HitList.app/PkgInfo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/AppiumSupport/IOSDriverBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/AppiumSupport/IOSDriverBuilder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/config.properties" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Screens/LoginScreen.java" afterPath="$PROJECT_DIR$/src/test/java/Screens/LoginScreen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Test/AbstractTest.java" afterPath="$PROJECT_DIR$/src/test/java/Test/AbstractTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Test/HRDirectLite.java" afterPath="$PROJECT_DIR$/src/test/java/Test/HRDirectLite.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Test/LoginScreenTest.java" afterPath="$PROJECT_DIR$/src/test/java/Test/LoginScreenTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testng.xml" afterPath="$PROJECT_DIR$/testng.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -482,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LoginScreen.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Screens/LoginScreen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
           <provider selected="true" editor-type-id="text-editor">
@@ -525,8 +48,18 @@
       <file leaf-file-name="IOSDriverBuilder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/AppiumSupport/IOSDriverBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
+            <state relative-caret-position="5">
               <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Test/AbstractTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -535,8 +68,8 @@
       <file leaf-file-name="AppiumLauncher.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/AppiumSupport/AppiumLauncher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="62">
+              <caret line="9" column="60" lean-forward="false" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -572,7 +105,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -596,13 +129,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/Test/HRDirectLite.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Test/AbstractTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test/LoginScreenTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Screens/LoginScreen.java" />
         <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
         <option value="$PROJECT_DIR$/src/main/java/AppiumSupport/IOSDriverBuilder.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Test/AbstractTest.java" />
       </list>
     </option>
   </component>
@@ -684,37 +217,6 @@
               <item name="HRDirectLite" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testNGListeners" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HRDirectLite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utitlity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HRDirectLite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HRDirectLite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HRDirectLite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -723,14 +225,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HRDirectLite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Screens" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HRDirectLite" type="b2602c69:ProjectViewProjectNode" />
@@ -771,7 +265,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG./Users/rgill/Documents/Emirates/demo/testng.xml">
+    <configuration name="/Users/rgill/Documents/Emirates/demo/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="DemoAppium" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -865,6 +386,11 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="TestNG./Users/rgill/Documents/Emirates/demo/testng.xml" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -879,22 +405,29 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_rgill_Documents_Emirates_demo_testng_xml - 2018.03.09 at 22h 32m 34s.xml">
+      <configuration name="/Users/rgill/Documents/Emirates/demo/testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="94" y="23" width="1586" height="942" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24967405" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24967405" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -941,23 +474,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Test/AbstractTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test/LoginScreenTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="false" />
+            <element signature="e#310#311#0" expanded="false" />
+            <element signature="e#368#369#0" expanded="false" />
+            <element signature="e#416#417#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -994,30 +519,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AppiumSupport/IOSDriverBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AppiumSupport/AppiumLauncher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AppiumSupport/AppiumBaseClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AppiumSupport/AndroidDriverBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1038,6 +539,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AppiumSupport/AppiumBaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AppiumSupport/AppiumLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="9" column="60" lean-forward="false" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AppiumSupport/IOSDriverBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test/AbstractTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="38" />
           <folding />
         </state>
       </provider>
