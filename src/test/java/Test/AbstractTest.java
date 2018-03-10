@@ -18,7 +18,7 @@ public class AbstractTest {
 
     @BeforeSuite
     public void launchAppium() {
-        AppiumLauncher.runProcess(true, "appium -a 127.0.0.1");
+        AppiumLauncher.runProcess(false, "appium -a 192.168.1.107");
     }
 
     @BeforeTest
