@@ -16,10 +16,10 @@ public class AbstractTest {
     protected static HRDirectLite app;
     //  private AppiumDriverLocalService service = AppiumDriverLocalService.buildDefaultService();
 
-    @BeforeSuite
-    public void launchAppium() {
-        AppiumLauncher.runProcess(false, "appium -a 192.168.1.107");
-    }
+//    @BeforeSuite
+//    public void launchAppium() {
+//        AppiumLauncher.runProcess(false, "appium -a 192.168.1.107");
+//    }
 
     @BeforeTest
     public void setUp(ITestContext context) throws Exception {
