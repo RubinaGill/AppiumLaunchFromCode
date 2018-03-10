@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 21.646 s <<< FAILURE! - in TestSuite
+setUp(Test.LoginScreenTest)  Time elapsed: 21.57 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+An unknown server-side error occurred while processing the command. Original error: simctl error running 'install': An error was encountered processing the command (domain=com.apple.CoreSimulator.SimError, code=164):
+Unable to lookup in current state: Shutting Down (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.96 seconds
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'XE-TMAC-RUBINAGILL', ip: 'fe80:0:0:0:1c96:1a75:456f:78f9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_131'
+Driver info: driver.version: IOSDriver
+

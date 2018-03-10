@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="testNGListeners.RetryListener"/>
+  </listeners>
+  <test name="iPad Air(failed)">
+    <classes>
+      <class name="Test.LoginScreenTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="loginWithValidCredentials"/>
+          <include name="loginWithInValidCredentials"/>
+        </methods>
+      </class> <!-- Test.LoginScreenTest -->
+    </classes>
+  </test> <!-- iPad Air(failed) -->
+</suite> <!-- Failed suite [Suite] -->
